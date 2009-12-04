@@ -116,8 +116,8 @@ HKCR,CLSID\{[!output GUID_CLASS1]}\InProcServer32,ThreadingModel,,"Both"
 
 HKCR,CLSID\[!output GUID_CLASS_UI1],,,"Sample WIA UIextension"
 
-HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb567}\shellex\WiaDialogExtensionHandlers\[!output GUID_CLASS_UI1]
-HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb567}\shellex\PropertySheetHandlers\[!output GUID_CLASS_UI1]
+HKCR,CLSID\[!output GUID_CLASS_UI1]\shellex\WiaDialogExtensionHandlers\[!output GUID_CLASS_UI1]
+HKCR,CLSID\[!output GUID_CLASS_UI1]\shellex\PropertySheetHandlers\[!output GUID_CLASS_UI1]
 
 HKCR,CLSID\[!output GUID_CLASS_UI1]\InProcServer32,,,%11%\[!output WIA_DRIVER_UI]
 HKCR,CLSID\[!output GUID_CLASS_UI1]\InProcServer32,ThreadingModel,,"Apartment"
