@@ -1,0 +1,80 @@
+; WIADRIVER.INF  -- WIA Driver setup file
+; Copyright (c) 2009 TWAIN Working Group
+; Manufacturer:  TWAIN Working Group
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=Image
+ClassGUID={6bdd1fc6-810f-11d0-bec7-08002be2092f}
+Provider=%Mfg%
+DriverVer=12/03/2009,1.1.0.0
+CatalogFile=wiadriver.cat
+
+[SourceDisksFiles.x86]
+wia_on_twain.dll=1
+
+[SourceDisksNames.x86]
+1=%Location%,,,
+
+
+[SourceDisksFiles.amd64]
+wia_on_twain.dll=1
+
+
+[SourceDisksNames.amd64]
+1=%Location%,,,
+
+[DestinationDirs]
+DefaultDestDir=11
+
+[Manufacturer]
+%Mfg%=Models, NTx86, NTamd64
+
+; This is the models section for the x86 driver
+[Models.NTx86]
+%WIADRIVER.DeviceDesc% = WIADRIVER.Device, WIAONTWAIN_DRIVER_PNP_ID
+
+; This is the models section for the amd64 driver
+[Models.NTamd64]
+%WIADRIVER.DeviceDesc% = WIADRIVER.Device, WIAONTWAIN_DRIVER_PNP_ID
+
+
+[WIADRIVER.Device]
+Include=sti.inf
+Needs=STI.SerialSection
+PortSelect=no
+SubClass=StillImage
+DeviceType=1
+DeviceSubType=0x1
+Capabilities=0x11
+Events=WIADRIVER.Events
+DeviceData=WIADRIVER.DeviceData
+AddReg=WIADRIVER.AddReg
+CopyFiles=WIADRIVER.CopyFiles
+ICMProfiles="sRGB Color Space Profile.icm"
+
+[WIADRIVER.Events]
+
+[WIADRIVER.Device.Services]
+Include=sti.inf
+Needs=STI.SerialSection.Services
+
+[WIADRIVER.DeviceData]
+
+[WIADRIVER.AddReg]
+HKR,,HardwareConfig,1,1
+HKR,,CreateFileName,,"AUTO"
+HKR,,USDClass,,"{7247AA1E-C489-40f6-A19B-62FBCAA81334}"
+HKCR,CLSID\{7247AA1E-C489-40f6-A19B-62FBCAA81334},,,"WIA on TWAIN Driver"
+HKCR,CLSID\{7247AA1E-C489-40f6-A19B-62FBCAA81334}\InProcServer32,,,%11%\wia_on_twain.dll
+HKCR,CLSID\{7247AA1E-C489-40f6-A19B-62FBCAA81334}\InProcServer32,ThreadingModel,,"Both"
+
+
+[WIADRIVER.CopyFiles]
+wia_on_twain.dll
+
+[Strings]
+Mfg="TWAIN Working Group"
+Location="WIA on TWAIN Driver Installation Source"
+WIADRIVER.DeviceDesc="WIA on TWAIN sample device"
+

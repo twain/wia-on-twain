@@ -1,0 +1,156 @@
+; [!output INF_NAME]  -- WIA Driver setup file
+; [!output LEGAL_COPYRIGHT]
+; Manufacturer:  [!output MANUFACTURE_NAME]
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=Image
+ClassGUID={6bdd1fc6-810f-11d0-bec7-08002be2092f}
+Provider=%Mfg%
+DriverVer=[!output DATE],[!output PRODUCT_VERSION1].[!output PRODUCT_VERSION2].[!output PRODUCT_VERSION3].[!output PRODUCT_VERSION4]
+DriverPackageType = PlugAndPlay
+DriverPackageDisplayName = %DeviceDesc%
+CatalogFile=[!output CAT_NAME]
+
+
+[SourceDisksFiles]
+[!output WIA_DRIVER]=1
+[!output WIA_DRIVER]64=1
+[!output WIA_DRIVER_UI]=1
+[!output WIA_DRIVER_UI]64=1
+
+[SourceDisksNames]
+1="[!output PRODUCT_DESCRIPTION] #1"
+
+[DestinationDirs]
+DefaultDestDir=11
+
+[Manufacturer]
+%Mfg%=Models, NTx86.5.1, NTamd64.5.1
+
+; This is the models section for the x86 driver Windows XP and higher
+[Models.NTx86.5.1]
+[!if USB]
+%DeviceDesc% = Scanner32.USB,USB\VID_[!output VID]&PID_[!output PID]
+[!endif]
+[!if SCSI]
+%DeviceDesc% = Scanner32.SCSI,SCSI\[!output SCSI_VID][!output SCSI_PID]
+[!endif]
+
+; This is the models section for the amd64 driver Windows XP and higher
+[Models.NTamd64.5.1]
+[!if USB]
+%DeviceDesc% = Scanner64.USB,USB\VID_[!output VID]&PID_[!output PID]
+[!endif]
+[!if SCSI]
+%DeviceDesc% = Scanner64.SCSI,SCSI\[!output SCSI_VID][!output SCSI_PID]
+[!endif]
+
+[!if USB]
+[Scanner32.USB]
+Include=sti.inf
+Needs=STI.USBSection
+SubClass=StillImage
+DeviceType=1
+DeviceSubType=0x1
+Capabilities=0x11
+Events=Scanner.Events
+DeviceData=Scanner.DeviceData
+AddReg=Scanner.AddReg
+CopyFiles=Scanner32.CopyFiles
+ICMProfiles="sRGB Color Space Profile.icm"
+
+[Scanner64.USB]
+Include=sti.inf
+Needs=STI.USBSection
+SubClass=StillImage
+DeviceType=1
+DeviceSubType=0x1
+Capabilities=0x11
+Events=Scanner.Events
+DeviceData=Scanner.DeviceData
+AddReg=Scanner.AddReg
+CopyFiles=Scanner64.CopyFiles
+ICMProfiles="sRGB Color Space Profile.icm"
+[!endif]
+
+[!if SCSI]
+[Scanner32.SCSI]
+Include=sti.inf
+Needs=STI.SCSISection
+SubClass=StillImage
+DeviceType=1
+DeviceSubType=0x1
+Capabilities=0x11
+Events=Scanner.Events
+DeviceData=Scanner.DeviceData
+AddReg=Scanner.AddReg
+CopyFiles=Scanner32.CopyFiles
+ICMProfiles="sRGB Color Space Profile.icm"
+
+[Scanner64.SCSI]
+Include=sti.inf
+Needs=STI.SCSISection
+SubClass=StillImage
+DeviceType=1
+DeviceSubType=0x1
+Capabilities=0x11
+Events=Scanner.Events
+DeviceData=Scanner.DeviceData
+AddReg=Scanner.AddReg
+CopyFiles=Scanner64.CopyFiles
+ICMProfiles="sRGB Color Space Profile.icm"
+[!endif]
+
+[Scanner.Events]
+
+[Scanner.DeviceData]
+UI Class ID=[!output GUID_CLASS_UI1]
+
+[Scanner.AddReg]
+HKR,,HardwareConfig,1,1
+HKR,,USDClass,,"{[!output GUID_CLASS1]}"
+HKCR,CLSID\{[!output GUID_CLASS1]},,,"[!output PRODUCT_DESCRIPTION]"
+HKCR,CLSID\{[!output GUID_CLASS1]}\InProcServer32,,,%11%\[!output WIA_DRIVER]
+HKCR,CLSID\{[!output GUID_CLASS1]}\InProcServer32,ThreadingModel,,"Both"
+
+HKCR,CLSID\[!output GUID_CLASS_UI1],,,"Sample WIA UIextension"
+
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb567}\shellex\WiaDialogExtensionHandlers\[!output GUID_CLASS_UI1]
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb567}\shellex\PropertySheetHandlers\[!output GUID_CLASS_UI1]
+
+HKCR,CLSID\[!output GUID_CLASS_UI1]\InProcServer32,,,%11%\[!output WIA_DRIVER_UI]
+HKCR,CLSID\[!output GUID_CLASS_UI1]\InProcServer32,ThreadingModel,,"Apartment"
+
+[!if USB]
+[Scanner32.USB.Services]
+Include=sti.inf
+Needs=STI.USBSection.Services
+
+[Scanner64.USB.Services]
+Include=sti.inf
+Needs=STI.USBSection.Services
+[!endif]
+
+[!if SCSI]
+[Scanner32.SCSI.Services]
+Include=sti.inf
+Needs=STI.SCSISection.Services
+
+[Scanner64.SCSI.Services]
+Include=sti.inf
+Needs=STI.SCSISection.Services
+[!endif]
+
+[Scanner32.CopyFiles]
+[!output WIA_DRIVER]
+[!output WIA_DRIVER_UI]
+
+[Scanner64.CopyFiles]
+[!output WIA_DRIVER], [!output WIA_DRIVER]64
+[!output WIA_DRIVER_UI], [!output WIA_DRIVER_UI]64
+
+[Strings]
+Mfg="[!output MANUFACTURE_NAME]"
+DeviceDesc="[!output PRODUCT_DESCRIPTION]"
+

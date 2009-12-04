@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WIAonTWAINWizard", "WIAonTWAINWizard\WIAonTWAINWizard.vcproj", "{860376A4-A45A-4622-AA2B-AA68F3E97428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860376A4-A45A-4622-AA2B-AA68F3E97428}.Debug|Win32.ActiveCfg = Debug|Win32
+		{860376A4-A45A-4622-AA2B-AA68F3E97428}.Debug|Win32.Build.0 = Debug|Win32
+		{860376A4-A45A-4622-AA2B-AA68F3E97428}.Release|Win32.ActiveCfg = Release|Win32
+		{860376A4-A45A-4622-AA2B-AA68F3E97428}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
