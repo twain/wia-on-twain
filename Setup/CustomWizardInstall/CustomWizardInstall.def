@@ -1,0 +1,5 @@
+LIBRARY	"CustomWizardInstall"
+
+EXPORTS
+    PrepareInstallation
+    CleanupInstallation

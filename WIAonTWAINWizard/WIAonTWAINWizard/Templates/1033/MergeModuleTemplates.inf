@@ -1,0 +1,8 @@
+DifX.mst
+MakeCat.Exe
+MsiTran.Exe
+DriverFiles\buildcat.cdf
+MergeModules\DIFxApp.msm
+MergeModules\DIFxApp64amd.msm
+MergeModules\TWAINDSM32.msm
+MergeModules\TWAINDSM64.msm
