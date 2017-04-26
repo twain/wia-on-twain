@@ -193,8 +193,12 @@ bool TW_Get_Set_DS_Data(HWND hWnd, HGLOBAL *phData, DWORD *pdwDataSize)
         ::TranslateMessage(&msg);
         ::DispatchMessage(&msg);
       }
+    }
       else
       {
+      // 10mS sleep if no messages
+      Sleep(10);
+    }
         //checks for signal
         DWORD dwWait = WaitForSingleObject(hTransferEvent,0);
         if(dwWait == WAIT_OBJECT_0)
@@ -226,13 +230,7 @@ bool TW_Get_Set_DS_Data(HWND hWnd, HGLOBAL *phData, DWORD *pdwDataSize)
         {
           dwRes = TWRC_FAILURE;
         }
-      }
-    }
-    else
-    {
-      // 10mS sleep if no messages
-      Sleep(10);
-    }
+
   }
   // go to state 4
   TwainApi.DisableDS(); 
@@ -296,7 +294,7 @@ bool TW_Get_Set_DS_Data(HWND hWnd, HGLOBAL *phData, DWORD *pdwDataSize)
   // release DS amd DSM
   TwainApi.CloseDS();
   TwainApi.CloseDSM();
-  if(dwRes)
+  if(dwRes==TWRC_FAILURE)
   {
     MessageBox(NULL,L"Error saving profile", L"Error", MB_OK | MB_ICONEXCLAMATION | MB_APPLMODAL | MB_SETFOREGROUND);
   }
@@ -470,7 +468,7 @@ void TW_InitilizeProfiles(CComboBox *pcbxProfiles)
   TCHAR           *pDot;
   
   // check all files with extension FILEEXTENTION in profiles directory
-  hFind = FindFirstFile(L"*"FILEEXTENTION, &FindFileData);
+  hFind = FindFirstFile(L"*" FILEEXTENTION, &FindFileData);
   while(hFind != INVALID_HANDLE_VALUE)
   {
     wcscpy_s(szFileName, MAX_PATH, FindFileData.cFileName);

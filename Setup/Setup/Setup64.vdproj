@@ -27,13 +27,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_035986D2AF1B4E258232EA2EE80CF9A9"
+        "MsmKey" = "8:_029E28BDBBF7419EA2971FD0F3BC226B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_04359099EF864AA0B56298E8261C0386"
+        "MsmKey" = "8:_035986D2AF1B4E258232EA2EE80CF9A9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -57,6 +57,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_06B7D1B7E16F4D2E9A2717CCEAAAFBC9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_06F0EB5723834EC0AE262441049A36D2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -75,6 +81,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_0B562BA73B84469A88D845713740CD9C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_0C50B6A714A749A89C3DAADD47DE6EA7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -87,7 +99,43 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_0DADD677A41B44458459463685FADD48"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0E0E879937CA4F13BE6EE0A3EEAB61C9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0FC1C6AC9C5B4E5DB4DF4F53165C7AB4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_10A98575E5E24455963F6479BDCD5094"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1211D9D80CE94076A4E7B894D1D4958B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_12A0F88F16F7454392AD33178DBF40CC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_13E4C612D1D04965A8CC9A2BC8B4A4F1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -117,13 +165,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1946CCF6374545748865AD48DE404FC6"
+        "MsmKey" = "8:_181A6CDCEE3641F893E5A192AD41E686"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1AA68672EAF2464FB21447C268A65EC3"
+        "MsmKey" = "8:_1A0EB8034D0C4F048BD06EC0733B4D57"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1A4C18C4C16F44C9A0C46B6AF9B99A88"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1C2DE3C1F5904F12B39749BAB2D27898"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -135,43 +195,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1F956B2A09994291B2C46538D379ED59"
+        "MsmKey" = "8:_1FC3AC1494E147F1934AD6AA03372F5B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_22818DD88FC646CA944997B01ECE3746"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_235A1238C1DC428096E1BBFB63DFB0D7"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2431429CBFD84FB9853BB0F34C97234B"
+        "MsmKey" = "8:_2353B6DF39D3473AAA824443FA687C8E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_26CB975FAFC84685A4027C1988B1E675"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_276113979567436AA364C8CAA558FDE3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_29403BED83D5492A9D5859FB44C0EA2F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -195,19 +231,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_2D4293589242420D908AFB462001A5B4"
+        "MsmKey" = "8:_2E7FEDA290B04A4FAC4A9BA85D5D14A7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_30B48A8058D2483CA6245969D70BFB2A"
+        "MsmKey" = "8:_3194A1C6D9B0490CB6371881D000A7E8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3700E913DA804BCE8A4C626BFFB88BFA"
+        "MsmKey" = "8:_31F1706B153B4EA4A2D7A81229A6D719"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3575A6BAD6BB4864AE8BE5E7FAC45678"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -219,13 +261,43 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_38E8B4E9ECC7434BBCE3952DE0657364"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_39D918C155274781A0053491EC8FFD41"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3A1897E0C43B4F4790027C57E2FF652E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B34D3B6C66849E2999FCD6B50FE9BAB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3BEB528BCC474F63AF64E6207F925265"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3CC3AC0CBB6D40D0B8AEE704FBA1F11B"
+        "MsmKey" = "8:_3DAF6EFE27DD4A93AF136CABD43716AE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3E8C3231A491463AB5FC66BD1B60B394"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -237,25 +309,31 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_41A5F7D2714048C4959ECC75E29B09A0"
+        "MsmKey" = "8:_3FD2BF58E16E47188365A4CE077E2D9D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_43BB1ACE2E094B12AEBC7055E4E82E0B"
+        "MsmKey" = "8:_406C37038FCB486DBA94A5A82BBE967A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_42C67405B5264B1EBB8414B3E30525B7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_44E62FEA43D1410EA4AB30E031801366"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_45A80DAFEE3D4841A80ACAAA461017B1"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_45AB05906A57472382D4EEAACFEDDBC5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -268,6 +346,12 @@
         "Entry"
         {
         "MsmKey" = "8:_46FB07838F944911ADB7B0AD7F6CF0C5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_49B2F2A3C7B7464B90B5E9D657B79B0D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -291,6 +375,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_510C36203D1447D3A6913FB414333810"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_529BC765F61F477790AB875588DC7113"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -303,7 +393,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_5417BD77F26249AF8D68213D168B5464"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_54FD1AFA0D634949B2AA06370B3EC109"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_55104E0257D34A2D961D7D284E1D36A1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -315,25 +417,49 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_5BC652F137FB4CDCB4D0FC95861D3535"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_5BDFE5F4C6EB448ABE647261616D6412"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5C5A0A96404C4893B5D5E19494798C7A"
+        "MsmKey" = "8:_5D9B4172C28D4752B47A2B638A02EB90"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5DCFF452AD064487AC6F2C4FE44774C5"
+        "MsmKey" = "8:_5E7D47F1A259425CA4D5E1413C44740C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_610C2734A6664A16BE4C3FFBE7A2DF0D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_61732DA774D84089BC6A6BF3E84F8592"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6318777EB3FA4168A2242E207A033B81"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_63458F2FFAC246949EE722BA751403DE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -351,19 +477,31 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6611130AE2A24CB5A9C595FBD5B0CAC0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_669E0D31CFA849B2A59364FA1F77495E"
+        "MsmKey" = "8:_670DA02CE050454FB85D04F70818F821"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_68A7DB8E885E4F35B6BEC7D31E34FCB4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6AB5DC537ED14EAAA6A4059B83B7C874"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6BD33AF0209D4479B3B8B85D11E8131D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6C8E11EED0544C72BF5A0C52242FD5B4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -381,25 +519,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6E8843E4757D4D8CABE6E4C97FB5A0B6"
+        "MsmKey" = "8:_6F66A47737AA440A9E3C68E46346AF55"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_72334B0AEA7E4C9C918DEB12797CC661"
+        "MsmKey" = "8:_715328C8BCEB41E19C051CA3049E81FA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_721EBCD5301246308EAE239519B11466"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_7732E3D7168D4348989081A596761287"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7736445A899045DE89591BEA31FD4206"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -417,19 +555,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_7E086A88AE22416A9FD88238DE0CFFFC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7EDE95335CFF4F68B7FBC5ECE11A4437"
+        "MsmKey" = "8:_7E32A15D32BA452BBFED8F6DC68316CB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_7FC73A61813F48488C48166B55692135"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_804B1BF9BECC4933BA728CFCC1FE168A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_80BBF864D88E424B88B01B3192D76DD3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -447,6 +591,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_859CF2D4E8C542929D563C4D6D096F1E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_86BA13901CBC4C4E99C2B0FB9761DDF2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -454,6 +604,12 @@
         "Entry"
         {
         "MsmKey" = "8:_8ACA88D9B43644C8AFA7F7BF032A95A1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8AE999C9FB354B368109D793F4D6AE8F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -489,13 +645,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_94148438EF4144A5AABEFA06FA18E1BF"
+        "MsmKey" = "8:_94370ACF30D14580ADCF4C594CFC24C4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9458FD1CF2D34F5C8532E24FF5827411"
+        "MsmKey" = "8:_97028F2D978D4E8EBEA873980BCFCD50"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -507,25 +663,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_98B720876EBB45978E85535B2B41D2D4"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B2B9537AC874B3BBFA92F8FD9F20A7C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B4D8F2967EA4758BBAC0314DC4778B3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_9FA6A17427B448DCA5B9C8DBFEA54B51"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A273B004BBCA4DD686FDE907CA135375"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -543,13 +687,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_A330B97CE4BB4434A029A37AC5DAF443"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A62519628DC74A55A38B226A363E87DB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_A75839786C5D463889A0FE6142E1F5BA"
+        "MsmKey" = "8:_AC0AB1C8DB6B499F8581555B3E0252D8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -561,43 +711,43 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_AD44F76710D14EF0B0811EA8501E7C7A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AFAAE9E7F656473B96FDC8E8D7C59D60"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B00B299812C44BCB900877A1B44E5D57"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_B0AB3A30059449FDBCB32E9A212A8E53"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B6DA55F31ACB43BDBF63C8A8C0DBA0D9"
+        "MsmKey" = "8:_B1EC8F0DB40B474C98B2305FAD679A85"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B8D0345293E34860A6B7CBC41FCAFB52"
+        "MsmKey" = "8:_B2C2094918D54CFBB1207E65D41530AF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B91BB7DCF7194B83B2650690EF4B913B"
+        "MsmKey" = "8:_B2C5F52672CD4472885DCBF22B544BCE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BA521A3689DB46CEB3C24D2298745CD2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BB34717CB08548988576B2DA2E2F1E06"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BBD64CDA551E484DB2BF39331B51AFDF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -609,7 +759,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BD5BBD03B84E4902B5347D0283C34EE5"
+        "MsmKey" = "8:_BCF8AE81A985438D8346F0CEC59D94BE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -627,25 +777,43 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_C1DE8E022F8F4F0F9E3619726D22EC90"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C68A962D30C6434F9FE844B46123637C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C7D05F035EFA4721BF2AA2A93F8FF945"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_C7EF0137A70D477FA72185554309F137"
+        "MsmKey" = "8:_C7F6A65160894D99ADBD5CD4FC031110"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_CA2E4C424DAF4BA79D3A849B729A3F2E"
+        "MsmKey" = "8:_C906F52132ED4955A2725AC7B79545A9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_CB0287D518D34C76B59B867C2BDC5DD7"
+        "MsmKey" = "8:_C9442AD5E77D4F50B492C8F1700394EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CAEB028086A241EDAF3AE3635F57853C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -657,13 +825,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_CBE3E5E4C36B4F49A5A07F232CAB32A8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_CC2064E81555471AAE89D5C872D31ED3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_CEFD010962F044C7B62E47A77044E418"
+        "MsmKey" = "8:_CE49327F77E8460696E961BAE40C02BA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D05EF4A92376480ABDB972D8C6DA19D0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -693,13 +873,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D60FC65FE5574462B6DF9A78E3B00A64"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D66A9C9841E74BB2A3610B3BB830EDCA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D6ADAAD0C64B4BF0B0FC6DCD7431639F"
+        "MsmKey" = "8:_D821D05EC5634633BB2BB39A45B79A13"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D89E509DEA7141E1975870FBA157BA09"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -711,31 +903,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_DBCB161AB0214863B3D7CE104AD80DBD"
+        "MsmKey" = "8:_DD015009BCBF49E98061364C47B656A5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DEE7E58ECC05488DB99CA8D44E0FE4DE"
+        "MsmKey" = "8:_DE31F32097544625803EBF478D79EE12"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DF13B8B4398445DCA797E08688B4BC79"
+        "MsmKey" = "8:_E01FC77C7EB0464EAA1D5DFF69D0934D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DF5D9568004647419A9744022454246F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E6272D2D29CA49C0AF09CA0A3E452D5D"
+        "MsmKey" = "8:_E49D253CBF3A4452A023333B7F8340D6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -753,7 +939,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EE0EFC9797644465B87ABF10DC00F5CB"
+        "MsmKey" = "8:_EA3E173F168F4A9C855A3B5982EC862F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EA5D7C8E535B45FCA4A72CB372F6379B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_ECF00F2680D14CEFB2D5EF3090146FD4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -766,6 +964,12 @@
         "Entry"
         {
         "MsmKey" = "8:_EF70B1874EBE45F8AFFDF32AB2268BF7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EFB391607A1F49E8A2D9767DA8D27DE0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -789,6 +993,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_F4840C7E048B4F1AA3BBE4920CEC8479"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_F57EAA94741847D29802AA81ABFDE3A9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -801,12 +1011,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_FB02CEABFF2D4374BCE31F945C1D29C0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_FB163911F5204FC39A5D7DDE5CBE11A5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -814,12 +1018,6 @@
         "Entry"
         {
         "MsmKey" = "8:_FB7910167AF145678DCC9123858DEF5E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FD243B03A2D94F1FB21561129E35A0F2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -935,12 +1133,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_035986D2AF1B4E258232EA2EE80CF9A9"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_029E28BDBBF7419EA2971FD0F3BC226B"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\lib\\wiaservc64amd.lib"
-            "TargetName" = "8:wiaservc64amd.lib"
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\msvcp140.dll"
+            "TargetName" = "8:msvcp140.dll"
             "Tag" = "8:"
-            "Folder" = "8:_2251B988A33E4980A1DA0D5C4BCC55C5"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -955,12 +1153,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_04359099EF864AA0B56298E8261C0386"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_035986D2AF1B4E258232EA2EE80CF9A9"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\stiusd.h"
-            "TargetName" = "8:stiusd.h"
+            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\lib\\wiaservc64amd.lib"
+            "TargetName" = "8:wiaservc64amd.lib"
             "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Folder" = "8:_2251B988A33E4980A1DA0D5C4BCC55C5"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1035,6 +1233,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_06B7D1B7E16F4D2E9A2717CCEAAAFBC9"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\platforms\\qwindows.dll"
+            "TargetName" = "8:qwindows.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_B415AF90726042C98F68FC1DB8AD6D01"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_06F0EB5723834EC0AE262441049A36D2"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\Installer\\MsiTran.Exe"
@@ -1095,6 +1313,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0B562BA73B84469A88D845713740CD9C"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2008.vcproj"
+            "TargetName" = "8:wiadriver2008.vcproj"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0C50B6A714A749A89C3DAADD47DE6EA7"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\Installer\\MakeCat.Exe"
@@ -1135,12 +1373,132 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0DADD677A41B44458459463685FADD48"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI.rc"
+            "TargetName" = "8:WIA_UI.rc"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0E0E879937CA4F13BE6EE0A3EEAB61C9"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\TWAINDS_Sample32.ds"
+            "TargetName" = "8:TWAINDS_Sample32.ds"
+            "Tag" = "8:"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0FC1C6AC9C5B4E5DB4DF4F53165C7AB4"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2017.sln"
+            "TargetName" = "8:wiadriver2017.sln"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_10A98575E5E24455963F6479BDCD5094"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\stdafx.h"
+            "TargetName" = "8:stdafx.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1211D9D80CE94076A4E7B894D1D4958B"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\FreeImage.dll"
+            "TargetName" = "8:FreeImage.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_12A0F88F16F7454392AD33178DBF40CC"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\wiacapabilitymanager.cpp"
             "TargetName" = "8:wiacapabilitymanager.cpp"
             "Tag" = "8:"
             "Folder" = "8:_58FA3816366F462EADEBB3A949B7B067"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_13E4C612D1D04965A8CC9A2BC8B4A4F1"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\Qt5Widgets.dll"
+            "TargetName" = "8:Qt5Widgets.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1235,10 +1593,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1946CCF6374545748865AD48DE404FC6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_181A6CDCEE3641F893E5A192AD41E686"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\scsiscan.h"
-            "TargetName" = "8:scsiscan.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiamindr_lh.h"
+            "TargetName" = "8:wiamindr_lh.h"
             "Tag" = "8:"
             "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
@@ -1255,12 +1613,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1AA68672EAF2464FB21447C268A65EC3"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1A0EB8034D0C4F048BD06EC0733B4D57"
             {
-            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\FreeImagex64.dll"
-            "TargetName" = "8:FreeImagex64.dll"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver.cpp"
+            "TargetName" = "8:wiadriver.cpp"
             "Tag" = "8:"
-            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1A4C18C4C16F44C9A0C46B6AF9B99A88"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\resource.h"
+            "TargetName" = "8:resource.h"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1C2DE3C1F5904F12B39749BAB2D27898"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI.h"
+            "TargetName" = "8:WIA_UI.h"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1295,12 +1693,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F956B2A09994291B2C46538D379ED59"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1FC3AC1494E147F1934AD6AA03372F5B"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\rpcsal.h"
-            "TargetName" = "8:rpcsal.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\scsiscan.h"
+            "TargetName" = "8:scsiscan.h"
             "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1315,50 +1713,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_22818DD88FC646CA944997B01ECE3746"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2353B6DF39D3473AAA824443FA687C8E"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiacapabilitymanager.cpp"
-            "TargetName" = "8:wiacapabilitymanager.cpp"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_235A1238C1DC428096E1BBFB63DFB0D7"
-            {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\rpc.h"
-            "TargetName" = "8:rpc.h"
-            "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2431429CBFD84FB9853BB0F34C97234B"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiamindr_xp.h"
-            "TargetName" = "8:wiamindr_xp.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\stiusd.h"
+            "TargetName" = "8:stiusd.h"
             "Tag" = "8:"
             "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
@@ -1381,46 +1739,6 @@
             "TargetName" = "8:WIADriverMSM.vdproj"
             "Tag" = "8:"
             "Folder" = "8:_58FA3816366F462EADEBB3A949B7B067"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_276113979567436AA364C8CAA558FDE3"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\wiadef.h"
-            "TargetName" = "8:wiadef.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_29403BED83D5492A9D5859FB44C0EA2F"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiatwcmp.h"
-            "TargetName" = "8:wiatwcmp.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1495,52 +1813,72 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2D4293589242420D908AFB462001A5B4"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2E7FEDA290B04A4FAC4A9BA85D5D14A7"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiamdef.h"
-            "TargetName" = "8:wiamdef.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_30B48A8058D2483CA6245969D70BFB2A"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\wiavideo.h"
-            "TargetName" = "8:wiavideo.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3700E913DA804BCE8A4C626BFFB88BFA"
-            {
-            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\TWAIN_logo.png"
-            "TargetName" = "8:TWAIN_logo.png"
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\FreeImage.dll"
+            "TargetName" = "8:FreeImage.dll"
             "Tag" = "8:"
             "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3194A1C6D9B0490CB6371881D000A7E8"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\vcruntime140.dll"
+            "TargetName" = "8:vcruntime140.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_31F1706B153B4EA4A2D7A81229A6D719"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\Qt5Core.dll"
+            "TargetName" = "8:Qt5Core.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3575A6BAD6BB4864AE8BE5E7FAC45678"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiacapabilitymanager.cpp"
+            "TargetName" = "8:wiacapabilitymanager.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1575,6 +1913,86 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_38E8B4E9ECC7434BBCE3952DE0657364"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI2008.vcproj"
+            "TargetName" = "8:WIA_UI2008.vcproj"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_39D918C155274781A0053491EC8FFD41"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiacapabilitymanager.h"
+            "TargetName" = "8:wiacapabilitymanager.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3A1897E0C43B4F4790027C57E2FF652E"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI2015.vcxproj"
+            "TargetName" = "8:WIA_UI2015.vcxproj"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B34D3B6C66849E2999FCD6B50FE9BAB"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\PropPage.cpp"
+            "TargetName" = "8:PropPage.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3BEB528BCC474F63AF64E6207F925265"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\ddk\\wiamicro.h"
@@ -1595,12 +2013,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3CC3AC0CBB6D40D0B8AEE704FBA1F11B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3DAF6EFE27DD4A93AF136CABD43716AE"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\TWAIN_API.h"
-            "TargetName" = "8:TWAIN_API.h"
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\ProfName.h"
+            "TargetName" = "8:ProfName.h"
             "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E8C3231A491463AB5FC66BD1B60B394"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\TWAINDS_Sample64.ds"
+            "TargetName" = "8:TWAINDS_Sample64.ds"
+            "Tag" = "8:"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1635,12 +2073,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_41A5F7D2714048C4959ECC75E29B09A0"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3FD2BF58E16E47188365A4CE077E2D9D"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\wiawsdsc.h"
-            "TargetName" = "8:wiawsdsc.h"
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\stdafx.h"
+            "TargetName" = "8:stdafx.h"
             "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1655,12 +2093,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_43BB1ACE2E094B12AEBC7055E4E82E0B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_406C37038FCB486DBA94A5A82BBE967A"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wia_xp.h"
-            "TargetName" = "8:wia_xp.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver.def"
+            "TargetName" = "8:wiadriver.def"
             "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_42C67405B5264B1EBB8414B3E30525B7"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\Qt5Gui.dll"
+            "TargetName" = "8:Qt5Gui.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_44E62FEA43D1410EA4AB30E031801366"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2013.vcproj"
+            "TargetName" = "8:wiadriver2013.vcproj"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1681,26 +2159,6 @@
             "TargetName" = "8:default.js"
             "Tag" = "8:"
             "Folder" = "8:_3D94E5987F2D443B8AE6072533C0F8E9"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45AB05906A57472382D4EEAACFEDDBC5"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\wiadevd.h"
-            "TargetName" = "8:wiadevd.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1741,6 +2199,26 @@
             "TargetName" = "8:wiapropertymanager.cpp"
             "Tag" = "8:"
             "Folder" = "8:_58FA3816366F462EADEBB3A949B7B067"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_49B2F2A3C7B7464B90B5E9D657B79B0D"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver.inf"
+            "TargetName" = "8:wiadriver.inf"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1815,6 +2293,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_510C36203D1447D3A6913FB414333810"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\UIDlg.cpp"
+            "TargetName" = "8:UIDlg.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_529BC765F61F477790AB875588DC7113"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\Installer\\MergeModules\\DIFxApp64amd.msm"
@@ -1855,12 +2353,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5417BD77F26249AF8D68213D168B5464"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\TWAIN_API.cpp"
+            "TargetName" = "8:TWAIN_API.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_54FD1AFA0D634949B2AA06370B3EC109"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\WIA_UI\\ProfName.h"
             "TargetName" = "8:ProfName.h"
             "Tag" = "8:"
             "Folder" = "8:_C84707A553704AABAD2B4B63A73AA968"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_55104E0257D34A2D961D7D284E1D36A1"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\platforms\\qwindows.dll"
+            "TargetName" = "8:qwindows.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DDC66FBE4A2A40D2A92C06CF18E3CB00"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1895,6 +2433,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5BC652F137FB4CDCB4D0FC95861D3535"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI.cpp"
+            "TargetName" = "8:WIA_UI.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5BDFE5F4C6EB448ABE647261616D6412"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\ddk\\wiamdef.h"
@@ -1915,12 +2473,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C5A0A96404C4893B5D5E19494798C7A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5D9B4172C28D4752B47A2B638A02EB90"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\rpcsal.h"
-            "TargetName" = "8:rpcsal.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2017.vcxproj"
+            "TargetName" = "8:wiadriver2017.vcxproj"
             "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1935,10 +2493,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5DCFF452AD064487AC6F2C4FE44774C5"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5E7D47F1A259425CA4D5E1413C44740C"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wia_lh.h"
-            "TargetName" = "8:wia_lh.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiapropertymanager.h"
+            "TargetName" = "8:wiapropertymanager.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_610C2734A6664A16BE4C3FFBE7A2DF0D"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiamicro.h"
+            "TargetName" = "8:wiamicro.h"
             "Tag" = "8:"
             "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
@@ -1961,6 +2539,46 @@
             "TargetName" = "8:DifX.mst"
             "Tag" = "8:"
             "Folder" = "8:_970169F4ED10440A99C355F7616BE9A4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6318777EB3FA4168A2242E207A033B81"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiautil.h"
+            "TargetName" = "8:wiautil.h"
+            "Tag" = "8:"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_63458F2FFAC246949EE722BA751403DE"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI2017.vcxproj"
+            "TargetName" = "8:WIA_UI2017.vcxproj"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2015,30 +2633,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6611130AE2A24CB5A9C595FBD5B0CAC0"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_670DA02CE050454FB85D04F70818F821"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiautil.h"
-            "TargetName" = "8:wiautil.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_669E0D31CFA849B2A59364FA1F77495E"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\basicstr.h"
-            "TargetName" = "8:basicstr.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2010.vcxproj"
+            "TargetName" = "8:wiadriver2010.vcxproj"
             "Tag" = "8:"
             "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
@@ -2061,6 +2659,66 @@
             "TargetName" = "8:WIA_UI.def"
             "Tag" = "8:"
             "Folder" = "8:_C84707A553704AABAD2B4B63A73AA968"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6AB5DC537ED14EAAA6A4059B83B7C874"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wia_xp.h"
+            "TargetName" = "8:wia_xp.h"
+            "Tag" = "8:"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6BD33AF0209D4479B3B8B85D11E8131D"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI.def"
+            "TargetName" = "8:WIA_UI.def"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6C8E11EED0544C72BF5A0C52242FD5B4"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2010.sln"
+            "TargetName" = "8:wiadriver2010.sln"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2115,12 +2773,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6E8843E4757D4D8CABE6E4C97FB5A0B6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6F66A47737AA440A9E3C68E46346AF55"
             {
-            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\FreeImage.dll"
-            "TargetName" = "8:FreeImage.dll"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\lib\\wiaservc64amd.lib"
+            "TargetName" = "8:wiaservc64amd.lib"
             "Tag" = "8:"
-            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Folder" = "8:_01D38EDCCA4B4F7FAB5A772F2F02D880"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2135,12 +2793,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_72334B0AEA7E4C9C918DEB12797CC661"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_715328C8BCEB41E19C051CA3049E81FA"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\rpcndr.h"
-            "TargetName" = "8:rpcndr.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiamindr_xp.h"
+            "TargetName" = "8:wiamindr_xp.h"
             "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_721EBCD5301246308EAE239519B11466"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2008.sln"
+            "TargetName" = "8:wiadriver2008.sln"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2161,26 +2839,6 @@
             "TargetName" = "8:TWAINDSM64.msm"
             "Tag" = "8:"
             "Folder" = "8:_0D7E90ECF0B74509933BA3C2F0C1F923"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7736445A899045DE89591BEA31FD4206"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiaintfc.h"
-            "TargetName" = "8:wiaintfc.h"
-            "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2235,32 +2893,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7E086A88AE22416A9FD88238DE0CFFFC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7E32A15D32BA452BBFED8F6DC68316CB"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiadriver.h"
-            "TargetName" = "8:wiadriver.h"
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI2013.vcxproj"
+            "TargetName" = "8:WIA_UI2013.vcxproj"
             "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7EDE95335CFF4F68B7FBC5ECE11A4437"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiacapabilitymanager.h"
-            "TargetName" = "8:wiacapabilitymanager.h"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2281,6 +2919,46 @@
             "TargetName" = "8:default.htm"
             "Tag" = "8:"
             "Folder" = "8:_A4317CF60EA34500A51CE70DF7C77A6E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_804B1BF9BECC4933BA728CFCC1FE168A"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\TWAIN_API.h"
+            "TargetName" = "8:TWAIN_API.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_80BBF864D88E424B88B01B3192D76DD3"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI2010.vcxproj"
+            "TargetName" = "8:WIA_UI2010.vcxproj"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2335,6 +3013,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_859CF2D4E8C542929D563C4D6D096F1E"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiapropertymanager.cpp"
+            "TargetName" = "8:wiapropertymanager.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_86BA13901CBC4C4E99C2B0FB9761DDF2"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\stdafx.cpp"
@@ -2361,6 +3059,26 @@
             "TargetName" = "8:wiapropertymanager.h"
             "Tag" = "8:"
             "Folder" = "8:_58FA3816366F462EADEBB3A949B7B067"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8AE999C9FB354B368109D793F4D6AE8F"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\lib\\wiaservc.lib"
+            "TargetName" = "8:wiaservc.lib"
+            "Tag" = "8:"
+            "Folder" = "8:_01D38EDCCA4B4F7FAB5A772F2F02D880"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2475,12 +3193,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_94148438EF4144A5AABEFA06FA18E1BF"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_94370ACF30D14580ADCF4C594CFC24C4"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiamicro.h"
-            "TargetName" = "8:wiamicro.h"
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\WIA_UI2013.vcproj"
+            "TargetName" = "8:WIA_UI2013.vcproj"
             "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2495,12 +3213,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9458FD1CF2D34F5C8532E24FF5827411"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_97028F2D978D4E8EBEA873980BCFCD50"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\basicarray.h"
-            "TargetName" = "8:basicarray.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\TWAIN\\twain.h"
+            "TargetName" = "8:twain.h"
             "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Folder" = "8:_39BC51E2EAF448D8A3FC96F2180CCCD2"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2535,72 +3253,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_98B720876EBB45978E85535B2B41D2D4"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiapropertymanager.cpp"
-            "TargetName" = "8:wiapropertymanager.cpp"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9B2B9537AC874B3BBFA92F8FD9F20A7C"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\lib\\wiaservc.lib"
-            "TargetName" = "8:wiaservc.lib"
-            "Tag" = "8:"
-            "Folder" = "8:_01D38EDCCA4B4F7FAB5A772F2F02D880"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9B4D8F2967EA4758BBAC0314DC4778B3"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\TWAIN_API.cpp"
-            "TargetName" = "8:TWAIN_API.cpp"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9FA6A17427B448DCA5B9C8DBFEA54B51"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\WIAonTWAINWizard.vsdir"
             "TargetName" = "8:WIAonTWAINWizard.vsdir"
             "Tag" = "8:"
             "Folder" = "8:_89F2447E03FE4C5093B079C9A8D52115"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A273B004BBCA4DD686FDE907CA135375"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\PropPage.h"
+            "TargetName" = "8:PropPage.h"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2655,6 +3333,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A330B97CE4BB4434A029A37AC5DAF443"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiaintfc.h"
+            "TargetName" = "8:wiaintfc.h"
+            "Tag" = "8:"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A62519628DC74A55A38B226A363E87DB"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\WIA_UI\\PropPage.h"
@@ -2675,12 +3373,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A75839786C5D463889A0FE6142E1F5BA"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AC0AB1C8DB6B499F8581555B3E0252D8"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\rpcndr.h"
-            "TargetName" = "8:rpcndr.h"
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\Qt5Core.dll"
+            "TargetName" = "8:Qt5Core.dll"
             "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2715,66 +3413,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AD44F76710D14EF0B0811EA8501E7C7A"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\TWAIN\\twain.h"
-            "TargetName" = "8:twain.h"
-            "Tag" = "8:"
-            "Folder" = "8:_39BC51E2EAF448D8A3FC96F2180CCCD2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AFAAE9E7F656473B96FDC8E8D7C59D60"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\stdafx.h"
-            "TargetName" = "8:stdafx.h"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B00B299812C44BCB900877A1B44E5D57"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiadriver.vcproj"
-            "TargetName" = "8:wiadriver.vcproj"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0AB3A30059449FDBCB32E9A212A8E53"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\wiadriver.cpp"
@@ -2795,10 +3433,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B6DA55F31ACB43BDBF63C8A8C0DBA0D9"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B1EC8F0DB40B474C98B2305FAD679A85"
             {
-            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\TWAIN_logo.png"
-            "TargetName" = "8:TWAIN_logo.png"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2013.sln"
+            "TargetName" = "8:wiadriver2013.sln"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2C2094918D54CFBB1207E65D41530AF"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\vcruntime140.dll"
+            "TargetName" = "8:vcruntime140.dll"
             "Tag" = "8:"
             "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
             "Condition" = "8:"
@@ -2815,12 +3473,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B8D0345293E34860A6B7CBC41FCAFB52"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2C5F52672CD4472885DCBF22B544BCE"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\lib\\wiaservc64amd.lib"
-            "TargetName" = "8:wiaservc64amd.lib"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver.rc"
+            "TargetName" = "8:wiadriver.rc"
             "Tag" = "8:"
-            "Folder" = "8:_01D38EDCCA4B4F7FAB5A772F2F02D880"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2835,12 +3493,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B91BB7DCF7194B83B2650690EF4B913B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BA521A3689DB46CEB3C24D2298745CD2"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiamindr.h"
-            "TargetName" = "8:wiamindr.h"
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\license.txt"
+            "TargetName" = "8:license.txt"
             "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BB34717CB08548988576B2DA2E2F1E06"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\stdafx.cpp"
+            "TargetName" = "8:stdafx.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BBD64CDA551E484DB2BF39331B51AFDF"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2015.sln"
+            "TargetName" = "8:wiadriver2015.sln"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2875,12 +3573,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BD5BBD03B84E4902B5347D0283C34EE5"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BCF8AE81A985438D8346F0CEC59D94BE"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\ddk\\wiamindr_lh.h"
-            "TargetName" = "8:wiamindr_lh.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\stdafx.cpp"
+            "TargetName" = "8:stdafx.cpp"
             "Tag" = "8:"
-            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2935,6 +3633,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C1DE8E022F8F4F0F9E3619726D22EC90"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2015.vcxproj"
+            "TargetName" = "8:wiadriver2015.vcxproj"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C68A962D30C6434F9FE844B46123637C"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\msvcp140.dll"
+            "TargetName" = "8:msvcp140.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C7D05F035EFA4721BF2AA2A93F8FF945"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\stdafx.h"
@@ -2955,12 +3693,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C7EF0137A70D477FA72185554309F137"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C7F6A65160894D99ADBD5CD4FC031110"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\3rdParty\\include\\WDK\\api\\rpc.h"
-            "TargetName" = "8:rpc.h"
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\TWAIN_logo.png"
+            "TargetName" = "8:TWAIN_logo.png"
             "Tag" = "8:"
-            "Folder" = "8:_0D4FE2A8EB4C4C70B717F7B832FA2341"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2975,12 +3713,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CA2E4C424DAF4BA79D3A849B729A3F2E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C906F52132ED4955A2725AC7B79545A9"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\wiadef.h"
-            "TargetName" = "8:wiadef.h"
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\utilities.cpp"
+            "TargetName" = "8:utilities.cpp"
             "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2995,12 +3733,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CB0287D518D34C76B59B867C2BDC5DD7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C9442AD5E77D4F50B492C8F1700394EF"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\wiavideo.h"
-            "TargetName" = "8:wiavideo.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiatwcmp.h"
+            "TargetName" = "8:wiatwcmp.h"
             "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CAEB028086A241EDAF3AE3635F57853C"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\utilities.h"
+            "TargetName" = "8:utilities.h"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3035,6 +3793,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CBE3E5E4C36B4F49A5A07F232CAB32A8"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiamdef.h"
+            "TargetName" = "8:wiamdef.h"
+            "Tag" = "8:"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CC2064E81555471AAE89D5C872D31ED3"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\wiadriver.vcproj"
@@ -3055,12 +3833,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CEFD010962F044C7B62E47A77044E418"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CE49327F77E8460696E961BAE40C02BA"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiadriver.cpp"
-            "TargetName" = "8:wiadriver.cpp"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver2013.vcxproj"
+            "TargetName" = "8:wiadriver2013.vcxproj"
             "Tag" = "8:"
             "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D05EF4A92376480ABDB972D8C6DA19D0"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\targetver.h"
+            "TargetName" = "8:targetver.h"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3155,6 +3953,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D60FC65FE5574462B6DF9A78E3B00A64"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\basicstr.h"
+            "TargetName" = "8:basicstr.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D66A9C9841E74BB2A3610B3BB830EDCA"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\wiadriver.h"
@@ -3175,12 +3993,32 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D6ADAAD0C64B4BF0B0FC6DCD7431639F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D821D05EC5634633BB2BB39A45B79A13"
             {
-            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\TWAINDS_Sample64.ds"
-            "TargetName" = "8:TWAINDS_Sample64.ds"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wia_lh.h"
+            "TargetName" = "8:wia_lh.h"
             "Tag" = "8:"
-            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D89E509DEA7141E1975870FBA157BA09"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\resource.h"
+            "TargetName" = "8:resource.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3215,12 +4053,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DBCB161AB0214863B3D7CE104AD80DBD"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DD015009BCBF49E98061364C47B656A5"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\wiawsdsc.h"
-            "TargetName" = "8:wiawsdsc.h"
+            "SourcePath" = "8:..\\InstallFiles\\Driver\\WIA_ON_TWAIN_UI.DLL64"
+            "TargetName" = "8:WIA_ON_TWAIN_UI.DLL"
             "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
+            "Folder" = "8:_752A632CD8404FD5984A796E16762070"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3235,10 +4073,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DEE7E58ECC05488DB99CA8D44E0FE4DE"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DE31F32097544625803EBF478D79EE12"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiapropertymanager.h"
-            "TargetName" = "8:wiapropertymanager.h"
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\ProfName.cpp"
+            "TargetName" = "8:ProfName.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E01FC77C7EB0464EAA1D5DFF69D0934D"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\basicarray.h"
+            "TargetName" = "8:basicarray.h"
             "Tag" = "8:"
             "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
@@ -3255,52 +4113,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DF13B8B4398445DCA797E08688B4BC79"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E49D253CBF3A4452A023333B7F8340D6"
             {
-            "SourcePath" = "8:..\\..\\WIAdriver\\resource.h"
-            "TargetName" = "8:resource.h"
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\3rdParty\\include\\WDK\\ddk\\wiamindr.h"
+            "TargetName" = "8:wiamindr.h"
             "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DF5D9568004647419A9744022454246F"
-            {
-            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\TWAINDS_Sample32.ds"
-            "TargetName" = "8:TWAINDS_Sample32.ds"
-            "Tag" = "8:"
-            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E6272D2D29CA49C0AF09CA0A3E452D5D"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiadriver.def"
-            "TargetName" = "8:wiadriver.def"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
+            "Folder" = "8:_0A3666B1AE8C43DF8B8FFE1C3D5FC6CC"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3355,12 +4173,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EE0EFC9797644465B87ABF10DC00F5CB"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA3E173F168F4A9C855A3B5982EC862F"
             {
-            "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\3rdParty\\include\\WDK\\api\\wiadevd.h"
-            "TargetName" = "8:wiadevd.h"
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\TWAIN_logo.png"
+            "TargetName" = "8:TWAIN_logo.png"
             "Tag" = "8:"
-            "Folder" = "8:_DF67877E01FD44BCA2BE315157877FE7"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA5D7C8E535B45FCA4A72CB372F6379B"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain64\\sample2\\Qt5Widgets.dll"
+            "TargetName" = "8:Qt5Widgets.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_DC3882BCF918413B8EF438BDA1AE5811"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ECF00F2680D14CEFB2D5EF3090146FD4"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver UI for sample DS\\UIDlg.h"
+            "TargetName" = "8:UIDlg.h"
+            "Tag" = "8:"
+            "Folder" = "8:_DA4360DAC6994DCA9D7D2EB3734E6077"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3401,6 +4259,26 @@
             "TargetName" = "8:wiautil.h"
             "Tag" = "8:"
             "Folder" = "8:_35797991CBC740C88587A96BF84C22A7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EFB391607A1F49E8A2D9767DA8D27DE0"
+            {
+            "SourcePath" = "8:..\\..\\WIA driver for sample DS\\wiadriver.h"
+            "TargetName" = "8:wiadriver.h"
+            "Tag" = "8:"
+            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3475,6 +4353,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F4840C7E048B4F1AA3BBE4920CEC8479"
+            {
+            "SourcePath" = "8:..\\InstallFiles\\twain32\\sample2\\Qt5Gui.dll"
+            "TargetName" = "8:Qt5Gui.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_2F42C9665AFE4E5B9A064C08B8609FF4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F57EAA94741847D29802AA81ABFDE3A9"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\WIAonTWAINWizard.vsz"
@@ -3515,26 +4413,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FB02CEABFF2D4374BCE31F945C1D29C0"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\stdafx.cpp"
-            "TargetName" = "8:stdafx.cpp"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FB163911F5204FC39A5D7DDE5CBE11A5"
             {
             "SourcePath" = "8:..\\..\\WIAonTWAINWizard\\WIAonTWAINWizard\\Templates\\1033\\Installer\\DriverFiles\\YourWIAdriver.dll64"
@@ -3561,26 +4439,6 @@
             "TargetName" = "8:NewStyles.css"
             "Tag" = "8:"
             "Folder" = "8:_E8551A3817C44FFCA126093C9223772C"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FD243B03A2D94F1FB21561129E35A0F2"
-            {
-            "SourcePath" = "8:..\\..\\WIAdriver\\wiadriver.rc"
-            "TargetName" = "8:wiadriver.rc"
-            "Tag" = "8:"
-            "Folder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3671,6 +4529,17 @@
                                 {
                                 }
                             }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_DA4360DAC6994DCA9D7D2EB3734E6077"
+                            {
+                            "Name" = "8:WIA UI for sample DS"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_443C254C2F844DC986DA6940D162AD8F"
+                                "Folders"
+                                {
+                                }
+                            }
                             "{9EF0B969-E518-4E46-987F-47570745A589}:_DB083689367B42D8B62CE66930D78F0E"
                             {
                             "Name" = "8:Documents"
@@ -3747,17 +4616,6 @@
                                                             "Condition" = "8:"
                                                             "Transitive" = "11:FALSE"
                                                             "Property" = "8:_C4C0C1C43CE149F9A9FBA71E2ED5540A"
-                                                                "Folders"
-                                                                {
-                                                                }
-                                                            }
-                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_0D4FE2A8EB4C4C70B717F7B832FA2341"
-                                                            {
-                                                            "Name" = "8:api"
-                                                            "AlwaysCreate" = "11:FALSE"
-                                                            "Condition" = "8:"
-                                                            "Transitive" = "11:FALSE"
-                                                            "Property" = "8:_92043140DF7341EC83A8CB7C2E174BB0"
                                                                 "Folders"
                                                                 {
                                                                 }
@@ -3930,17 +4788,6 @@
                                                                                                 {
                                                                                                 }
                                                                                             }
-                                                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_DF67877E01FD44BCA2BE315157877FE7"
-                                                                                            {
-                                                                                            "Name" = "8:api"
-                                                                                            "AlwaysCreate" = "11:FALSE"
-                                                                                            "Condition" = "8:"
-                                                                                            "Transitive" = "11:FALSE"
-                                                                                            "Property" = "8:_DC7871300DEA4A9795CD19807575D1F1"
-                                                                                                "Folders"
-                                                                                                {
-                                                                                                }
-                                                                                            }
                                                                                         }
                                                                                     }
                                                                                 }
@@ -4076,6 +4923,17 @@
                             "Property" = "8:_BE79A9D50C8E4CBA8125C6ADDFB99A35"
                                 "Folders"
                                 {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_B415AF90726042C98F68FC1DB8AD6D01"
+                                    {
+                                    "Name" = "8:platforms"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_3471CF5A10864EB2B5A9B05EAC511349"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
                                 }
                             }
                         }
@@ -4109,6 +4967,17 @@
                             "Property" = "8:_95686A73411C474DABC340168D6082FB"
                                 "Folders"
                                 {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_DDC66FBE4A2A40D2A92C06CF18E3CB00"
+                                    {
+                                    "Name" = "8:platforms"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_D8FB066D22D54246A50950B1E378984B"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
                                 }
                             }
                         }
@@ -4176,7 +5045,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:WIAonTWAIN SDK"
         "ProductCode" = "8:{85E5014B-0269-4044-AD72-6489101CC7BC}"
-        "PackageCode" = "8:{8595B0DC-27B6-4127-958C-D95CA42F592C}"
+        "PackageCode" = "8:{6E03992B-70EC-4101-88FC-97C9E401BE18}"
         "UpgradeCode" = "8:{6664FA36-963E-4563-82BA-5989EA9D9373}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
@@ -4241,13 +5110,13 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_B75FA8A2440F45E5BBD417A9CD93C778"
             {
-            "Name" = "8:Shortcut to WIA driver for sample DS.vcproj"
+            "Name" = "8:Shortcut to WIA driver for sample DS"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_B00B299812C44BCB900877A1B44E5D57"
+            "Target" = "8:_0FC1C6AC9C5B4E5DB4DF4F53165C7AB4"
             "Folder" = "8:_F511C3E742D849BBA80852255ABEB12A"
             "WorkingFolder" = "8:_EE48FC0FCF80428DA5B93584CF9CBF56"
             "Icon" = "8:"

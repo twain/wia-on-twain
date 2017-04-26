@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wiadriver", "wiadriver2015.vcxproj", "{42ECF691-F16E-403E-9F8C-C9869D1649CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WIA_UI", "..\WIA driver UI for sample DS\WIA_UI2015.vcxproj", "{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Debug|Win32.Build.0 = Debug|Win32
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Debug|x64.ActiveCfg = Debug|x64
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Debug|x64.Build.0 = Debug|x64
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Release|Win32.ActiveCfg = Release|Win32
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Release|Win32.Build.0 = Release|Win32
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Release|x64.ActiveCfg = Release|x64
+		{42ECF691-F16E-403E-9F8C-C9869D1649CD}.Release|x64.Build.0 = Release|x64
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Debug|Win32.Build.0 = Debug|Win32
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Debug|x64.ActiveCfg = Debug|x64
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Debug|x64.Build.0 = Debug|x64
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Release|Win32.ActiveCfg = Release|Win32
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Release|Win32.Build.0 = Release|Win32
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Release|x64.ActiveCfg = Release|x64
+		{5FBCCA87-024E-43EF-892C-7631A6DA7EFA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

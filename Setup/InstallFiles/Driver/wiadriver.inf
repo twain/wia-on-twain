@@ -7,11 +7,12 @@ Signature="$WINDOWS NT$"
 Class=Image
 ClassGUID={6bdd1fc6-810f-11d0-bec7-08002be2092f}
 Provider=%Mfg%
-DriverVer=12/03/2009,1.1.0.0
+DriverVer=03/03/2017,2.4.0.0
 CatalogFile=wiadriver.cat
 
 [SourceDisksFiles.x86]
 wia_on_twain.dll=1
+wia_on_twain_UI.dll=1
 
 [SourceDisksNames.x86]
 1=%Location%,,,
@@ -19,7 +20,7 @@ wia_on_twain.dll=1
 
 [SourceDisksFiles.amd64]
 wia_on_twain.dll=1
-
+wia_on_twain_UI.dll=1
 
 [SourceDisksNames.amd64]
 1=%Location%,,,
@@ -60,6 +61,8 @@ Include=sti.inf
 Needs=STI.SerialSection.Services
 
 [WIADRIVER.DeviceData]
+UI Class ID={edb8b35d-c15f-4e45-9658-50d7f8addb56}
+Server=local
 
 [WIADRIVER.AddReg]
 HKR,,HardwareConfig,1,1
@@ -69,9 +72,18 @@ HKCR,CLSID\{7247AA1E-C489-40f6-A19B-62FBCAA81334},,,"WIA on TWAIN Driver"
 HKCR,CLSID\{7247AA1E-C489-40f6-A19B-62FBCAA81334}\InProcServer32,,,%11%\wia_on_twain.dll
 HKCR,CLSID\{7247AA1E-C489-40f6-A19B-62FBCAA81334}\InProcServer32,ThreadingModel,,"Both"
 
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb56},,,"Sample WIA UIextension"
+
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb56}\shellex\WiaDialogExtensionHandlers\{edb8b35d-c15f-4e45-9658-50d7f8addb56},,,"WIA driver extension"
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb56}\shellex\PropertySheetHandlers\{edb8b35d-c15f-4e45-9658-50d7f8addb56},,,"WIA driver extension"
+
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb56}\InProcServer32,,,%11%\wia_on_twain_UI.dll
+HKCR,CLSID\{edb8b35d-c15f-4e45-9658-50d7f8addb56}\InProcServer32,ThreadingModel,,"Apartment"
+
 
 [WIADRIVER.CopyFiles]
 wia_on_twain.dll
+wia_on_twain_UI.dll
 
 [Strings]
 Mfg="TWAIN Working Group"

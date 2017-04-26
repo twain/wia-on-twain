@@ -1,0 +1,11 @@
+; WIA_UI.def : Declares the module parameters for the DLL.
+
+EXPORTS
+    ; Explicit exports can go here
+    
+EXPORTS
+    DllCanUnloadNow         PRIVATE
+    DllGetClassObject       PRIVATE
+    DllRegisterServer        PRIVATE
+    DllUnregisterServer      PRIVATE
+    DllMain                 PRIVATE

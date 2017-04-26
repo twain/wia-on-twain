@@ -473,8 +473,8 @@ DWORD CTWAIN_API::EnableDS(HANDLE * phEvent)
   {
     m_msgLast = 0;
     ResetEvent(m_hDSMEvent);
-    dwRes = (*m_fnDSM_Entry)(&m_AppID, &m_DS, DG_CONTROL, DAT_USERINTERFACE, MSG_ENABLEDS, &guif);
     *phEvent = m_hDSMEvent;
+    dwRes = (*m_fnDSM_Entry)(&m_AppID, &m_DS, DG_CONTROL, DAT_USERINTERFACE, MSG_ENABLEDS, &guif);
   }
   catch (...)
   {

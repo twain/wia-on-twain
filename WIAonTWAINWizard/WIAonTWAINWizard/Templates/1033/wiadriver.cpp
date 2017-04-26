@@ -44,7 +44,8 @@
 #include <shellapi.h>
 #include <shlobj.h>
 #include <shlwapi.h>
-
+#include <AclAPI.h>
+#include <atlsecurity.h>
 HINSTANCE g_hInst = NULL;
 
 #define MAX(a,b) ((a)>(b)?(a):(b))
@@ -92,7 +93,7 @@ HINSTANCE g_hInst = NULL;
 #define kVER_MIN [!output PRODUCT_VERSION2]
 #define kVER_INFO "[!output PRODUCT_VERSION1].[!output PRODUCT_VERSION2] [!output PRODUCT_DESCRIPTION]"
 #define kPROT_MAJ 2
-#define kPROT_MIN 0
+#define kPROT_MIN 4
 #define kMANUFACTURER "[!output MANUFACTURE_NAME]"
 #define kPRODUCT_FAMILY "[!output PRODUCT_DESCRIPTION]"
 #define kPRODUCT_NAME "[!output PRODUCT_DESCRIPTION]"
@@ -428,6 +429,36 @@ CWIADriver::CWIADriver(__in_opt LPUNKNOWN punkOuter) : m_cRef(1),
   if(strProfilesPath[wcslen(strProfilesPath)-1] != '\\')
   {
     wcscat_s(strProfilesPath, MAX_PATH, L"\\");
+  }
+
+  if(!SetCurrentDirectory(strProfilesPath))
+  {
+    wchar_t     strPath[MAX_PATH];
+    wchar_t     strTempPath[MAX_PATH];
+    wchar_t     *pchPath;
+    wchar_t     *pchTemp;
+
+    wcscpy_s(strPath, MAX_PATH, strProfilesPath);
+    pchPath    = strPath;
+    while( pchTemp = wcschr(pchPath, '\\') )
+    {
+      *pchTemp = '\0';
+      wcscpy_s(strTempPath, MAX_PATH, pchPath);
+      wcscat_s(strTempPath, MAX_PATH, L"\\");
+
+      if(!SetCurrentDirectory(strTempPath))
+      {
+        if( !CreateDirectory(strTempPath, NULL) )
+        {
+          return;
+        }
+        if(!SetCurrentDirectory(strTempPath))
+        {
+          return;
+        }
+      }
+      pchPath = pchTemp+1;
+    }
   }
 
   m_strProfilesPath = strProfilesPath;
@@ -969,9 +1000,58 @@ HRESULT CWIADriver::drvAcquireItemDataWIA1(       LONG               lFlags,
     }     
 
     //wait for event from the scanner
-    if(WaitForSingleObject(hTransferEvent,kMAX_SCAN_TIME) != WAIT_OBJECT_0 || pTwainApi->GetLastMsg()!=MSG_XFERREADY)
+    MSG msg;
+    DWORD dwTime=0;
+    while(dwRes==0)
+    {
+      // pump messages and send it to TWAIN DS
+      if (::PeekMessage(&msg, 0, 0, 0, PM_REMOVE))
+      {
+        if (msg.message == WM_QUIT) 
+        {
+          break;
+        }
+        WORD wMsgTW;
+        bool bTwainMsg;
+
+        if ((dwRes = pTwainApi->ProcessEvent(&msg, &wMsgTW, &bTwainMsg)) != TWRC_SUCCESS)
+        {
+          break;
+        }
+
+        if (!bTwainMsg)
+        {//Translate and Dispach non TWAIN messages
+          ::TranslateMessage(&msg);
+          ::DispatchMessage(&msg);
+        }
+      }
+      else
+      {
+        // 10mS sleep if no messages
+        Sleep(10);
+        dwTime+=10;
+        if(dwTime>kMAX_SCAN_TIME)
+        {
+            throw ERROR_CANCELLED;
+        }
+      }
+      //checks for signal
+      DWORD dwWait = WaitForSingleObject(hTransferEvent,0);
+      if(dwWait != WAIT_OBJECT_0 && dwWait!=WAIT_TIMEOUT)
     {
       throw ERROR_CANCELLED;
+    }
+      if(dwWait == WAIT_OBJECT_0)
+      {
+        if(pTwainApi->GetLastMsg()!=MSG_XFERREADY)
+        {
+          throw ERROR_CANCELLED;
+        }
+        else
+        {
+          break;
+        } 
+      }
     }
 
     //Scan All Pages
@@ -1596,9 +1676,59 @@ HRESULT CWIADriver::drvAcquireItemData(__in  BYTE            *pWiasContext,
         WIAS_ERROR((g_hInst, "Could not get our IWiaMiniDrvTransferCallback for download"));
         return hr;
       }
+      MSG msg;
+      DWORD dwTime=0;
+      while(dwRes==0)
+      {
+        // pump messages and send it to TWAIN DS
+        if (::PeekMessage(&msg, 0, 0, 0, PM_REMOVE))
+        {
+          if (msg.message == WM_QUIT) 
+          {
+            hr =  ERROR_CANCELLED;
+            break;
+          }
+          WORD wMsgTW;
+          bool bTwainMsg;
 
-      //wait for event from the scanner
-      if(WaitForSingleObject(hTransferEvent,kMAX_SCAN_TIME) == WAIT_OBJECT_0 && pTwainApi->GetLastMsg()==MSG_XFERREADY)
+          if ((dwRes = pTwainApi->ProcessEvent(&msg, &wMsgTW, &bTwainMsg)) != TWRC_SUCCESS)
+          {
+              hr =  ERROR_CANCELLED;
+              break;
+          }
+
+          if (!bTwainMsg)
+          {//Translate and Dispach non TWAIN messages
+            ::TranslateMessage(&msg);
+            ::DispatchMessage(&msg);
+          }
+        }
+        else
+        {
+          // 10mS sleep if no messages
+          Sleep(10);
+          dwTime+=10;
+          if(dwTime>kMAX_SCAN_TIME)
+          {
+              hr = ERROR_CANCELLED;
+              break;
+          }
+        }
+        //checks for signal
+        DWORD dwWait = WaitForSingleObject(hTransferEvent,0);
+        if(dwWait != WAIT_OBJECT_0 && dwWait!=WAIT_TIMEOUT)
+        {
+          hr =  ERROR_CANCELLED;
+          break;
+        }
+        if(dwWait == WAIT_OBJECT_0)
+        {
+          if(pTwainApi->GetLastMsg()!=MSG_XFERREADY)
+          {
+            hr =  ERROR_CANCELLED;
+            break;
+          }
+          else
       {
         bool bMoreImages=true;
         while ((SUCCEEDED(hr)) && bMoreImages && lXferCount)
@@ -1611,11 +1741,20 @@ HRESULT CWIADriver::drvAcquireItemData(__in  BYTE            *pWiasContext,
             hr = hr1;
           }
           lXferCount--;
+              if( hr == WIA_STATUS_SKIP_ITEM )
+              {
+                if( lXferCount )
+                {
+                  continue;
+                }
+                hr = S_OK;
+                break;
+              }
+
+            }
+            break;
         }
       }
-      else
-      {
-        hr = ERROR_CANCELLED;
       }
       if(pTwainApi)
       {
@@ -1667,6 +1806,24 @@ HRESULT CWIADriver::InitializeRootItemProperties(
       //create temporary file for transfering profile from UI to the driver and store its name in WIA propety
       TCHAR szTempFileName[1024];  
       GetTempFileName((LPCTSTR)m_strProfilesPath,L"TWP",0,szTempFileName);
+ 
+      ACL *pDACL = NULL;
+      PSECURITY_DESCRIPTOR pSD = NULL;
+      DWORD dwRet = GetNamedSecurityInfo(szTempFileName,SE_FILE_OBJECT, DACL_SECURITY_INFORMATION|UNPROTECTED_DACL_SECURITY_INFORMATION,NULL, NULL, &pDACL, NULL, &pSD );
+      if(dwRet == ERROR_SUCCESS && pDACL)
+      {
+        CDacl dacl=*pDACL;
+        if(dacl.AddAllowedAce(Sids::Users(),	FILE_ALL_ACCESS))
+        {
+          SetNamedSecurityInfo(szTempFileName,SE_FILE_OBJECT, DACL_SECURITY_INFORMATION|UNPROTECTED_DACL_SECURITY_INFORMATION, NULL, NULL, (PACL)dacl.GetPACL(), NULL);
+        }
+      }
+  
+      if(pSD)
+      {
+        LocalFree(pSD);
+      }
+
       BSTR bstrFirmware = SysAllocString(szTempFileName);
       if ( bstrFirmware ) 
       {
